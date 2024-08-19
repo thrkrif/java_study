@@ -7,6 +7,6 @@ public class Var2 {
         System.out.println(a);
 
         int b = 20; // 변수 선언과 동시에 초기화
-        
+        System.out.println("exam1");
     }
 }
